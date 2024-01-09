@@ -9,5 +9,5 @@ CSS: https://developer.mozilla.org/en-US/docs/Web/CSShttps://developer.mozilla.o
 ## issues
 I still need to learn how flex wrap, add pictures sizes for the work sections and work on responsive viewport. I need to review classwork again.
 
-## Link to Portfolio
-Github: 
+## Link to Portfolio in practice
+Github: http://127.0.0.1:5500/Week02/Assignment/Professional-Portfolio/Main/index.html

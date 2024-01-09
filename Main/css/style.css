@@ -50,7 +50,7 @@ margin-left: 35px;
 .course-work {
     list-style: square inside;
 }
-
+/*need to add responsive layout properties*/
 .container{
     border: 10px solid lightgray;
     display: flex;
@@ -59,7 +59,7 @@ margin-left: 35px;
     justify-content: space-around;
     
 }
-
+/*added border and design for future images of deployed applications*/
 .flex-box {
     border: 5px solid lightgrey;
     display: flex;
