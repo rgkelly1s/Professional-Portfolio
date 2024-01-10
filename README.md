@@ -3,7 +3,10 @@ Module 2 Challenge
 
 ## How I created it
 I used HTML and CSS. I looked at previous class sessions and various documents from MDN.
-links below
+links below:
+
+HTML:https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks
+
 CSS: https://developer.mozilla.org/en-US/docs/Web/CSShttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model
 
 ## issues
