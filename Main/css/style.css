@@ -1,0 +1,67 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: normal;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: lightsteelblue;
+}
+
+header {
+    position: relative;
+    width: auto;
+    padding: 20px 10%;
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    z-index: 100;
+    background-color: lightgray;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+
+li {
+   list-style-type: disc;
+}
+
+.navbar a {
+font-size: 20px;
+color: black;
+text-decoration: none;
+font-weight: 300;
+margin-left: 35px;
+;
+}
+
+.navbar a:hover {
+    color: whitesmoke;
+}
+
+.aboutMe {
+   font-size: large;
+}
+
+.course-work {
+    list-style: square inside;
+}
+/*need to add responsive layout properties*/
+.container{
+    border: 10px solid lightgray;
+    display: flex;
+    box-sizing: border-box;
+    overflow: hidden;
+    justify-content: space-around;
+    
+}
+/*added border and design for future images of deployed applications*/
+.flex-box {
+    border: 5px solid lightgrey;
+    display: flex;
+    border-radius: 15px;
+}
